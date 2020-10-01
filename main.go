@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-const league = "Harvest"
+const league = "Heist"
 
 func main() {
 	cards := getItems("DivinationCard", league)
